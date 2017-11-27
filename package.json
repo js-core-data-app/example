@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "jscda-graphql-api": "0.0.3",
+    "jscda-rest-api": "0.0.3"
+  },
+  "scripts": {
+    "start": "js-core-data-app start"
+  },
+  "devDependencies": {
+    "js-core-data-app": "^0.1.1"
+  }
+}
