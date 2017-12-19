@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "jscda-graphql-api": "0.0.3",
-    "jscda-rest-api": "0.0.3"
+    "nappjs-graphql-api": "^0.1.0",
+    "nappjs-rest-api": "^0.1.0"
   },
   "scripts": {
-    "start": "js-core-data-app start"
+    "start": "nappjs start"
   },
   "devDependencies": {
-    "js-core-data-app": "^0.1.1"
+    "nappjs": "^0.3.0"
   }
 }
